@@ -1,0 +1,6 @@
+{
+	"name": "wpackagist-plugin/acf-code-field",
+	"description": "ACF Code Field Respository",
+	"version": "1.8",
+    "type": "wordpress-plugin"
+}
